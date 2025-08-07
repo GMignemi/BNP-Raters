@@ -1,6 +1,6 @@
-R Package for the Bayesian Nonparametric Analysis of Continuous and Coarsened Rating by Multiple Raters. 
+R Package for the **Bayesian Nonparametric** Analysis of Continuous and Coarsened Rating by Multiple Raters. 
 
 It provides:
-- Model Fitting (MCMC samples);
-- Predictive Information (WAIC);
-- Prediction (Replicated samples).
+- _**Model Fitting**_ (MCMC samples);
+- **_Predictive Information_** (WAIC);
+- **_Prediction_** (Replicated samples).
